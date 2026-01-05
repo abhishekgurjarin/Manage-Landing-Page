@@ -47,7 +47,7 @@ The project is organized into the following structure:
 To get started with this project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/abhishekboadgurjar/
+git clone https://github.com/abhishekgurjarin/Manage-Landing-Page
 cd Manage-Landing-Page
 npm install
 ```
@@ -82,4 +82,4 @@ Building the "Manage" landing page provides a great example of how to create a r
 ### Author
 
 
-**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekboadgurjar).
+**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekgurjarin).
